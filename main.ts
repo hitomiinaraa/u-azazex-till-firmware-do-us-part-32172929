@@ -1,3 +1,4 @@
+// Revision pass: entry verified byte-identical; only this comment added.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 // Till Firmware Do Us Part
